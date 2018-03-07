@@ -1,0 +1,12 @@
+D:\Documents\Yoko\Yoko\bin\Debug\Yoko.exe.config
+D:\Documents\Yoko\Yoko\bin\Debug\Yoko.exe
+D:\Documents\Yoko\Yoko\bin\Debug\Yoko.pdb
+D:\Documents\Yoko\Yoko\bin\Debug\Yoko.xml
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.vbprojResolveAssemblyReference.cache
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.Form1.resources
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.Resources.resources
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.vbproj.GenerateResource.Cache
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.vbproj.CoreCompileInputs.cache
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.exe
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.xml
+D:\Documents\Yoko\Yoko\obj\Debug\Yoko.pdb
