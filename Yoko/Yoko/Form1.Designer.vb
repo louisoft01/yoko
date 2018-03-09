@@ -31,6 +31,7 @@ Partial Class Form1
         Me.Button3 = New System.Windows.Forms.Button()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -112,13 +113,25 @@ Partial Class Form1
         Me.TextBox2.Size = New System.Drawing.Size(171, 20)
         Me.TextBox2.TabIndex = 8
         '
+        'CheckBox1
+        '
+        Me.CheckBox1.AutoSize = True
+        Me.CheckBox1.ForeColor = System.Drawing.Color.White
+        Me.CheckBox1.Location = New System.Drawing.Point(12, 161)
+        Me.CheckBox1.Name = "CheckBox1"
+        Me.CheckBox1.Size = New System.Drawing.Size(91, 17)
+        Me.CheckBox1.TabIndex = 9
+        Me.CheckBox1.Text = "Toggle theme"
+        Me.CheckBox1.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Black
-        Me.ClientSize = New System.Drawing.Size(301, 230)
+        Me.ClientSize = New System.Drawing.Size(300, 189)
         Me.ControlBox = False
+        Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -142,4 +155,5 @@ Partial Class Form1
     Friend WithEvents Button3 As Button
     Friend WithEvents FolderBrowserDialog1 As FolderBrowserDialog
     Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents CheckBox1 As CheckBox
 End Class

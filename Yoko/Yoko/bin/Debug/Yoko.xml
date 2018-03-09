@@ -22,5 +22,15 @@ Yoko
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Yoko.My.Resources.Resources.String1">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Yoko.My.Resources.Resources.theme">
+<summary>
+  Looks up a localized string similar to black.
+</summary>
+</member>
 </members>
 </doc>
